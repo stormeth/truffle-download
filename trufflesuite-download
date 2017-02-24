@@ -1,0 +1,22 @@
+#!/bin/bash
+
+mkdir trufflesuite
+cd trufflesuite
+git clone https://github.com/ConsenSys/truffle.git
+git clone https://github.com/trufflesuite/truffle-artifactor
+git clone https://github.com/trufflesuite/truffle-blockchain-utils
+git clone https://github.com/trufflesuite/truffle-compile
+git clone https://github.com/trufflesuite/truffle-config
+git clone https://github.com/trufflesuite/truffle-contract
+git clone https://github.com/trufflesuite/truffle-contract-schema
+git clone https://github.com/trufflesuite/truffle-contract-sources
+git clone https://github.com/trufflesuite/truffle-deployer
+git clone https://github.com/trufflesuite/truffle-error
+git clone https://github.com/trufflesuite/truffle-expect
+git clone https://github.com/trufflesuite/truffle-init
+git clone https://github.com/trufflesuite/truffle-migrate
+git clone https://github.com/trufflesuite/truffle-provider
+git clone https://github.com/trufflesuite/truffle-provisioner
+git clone https://github.com/trufflesuite/truffle-require
+git clone https://github.com/trufflesuite/truffle-resolver
+git clone https://github.com/trufflesuite/truffle-solidity-utils
