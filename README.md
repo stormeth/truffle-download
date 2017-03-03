@@ -1,1 +1,3 @@
-# truffle-examples
+# truffle-download
+
+Download the complete Truffle suite...
